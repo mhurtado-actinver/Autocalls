@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="568.859375pt" height="281.111875pt" viewBox="0 0 568.859375 281.111875" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-05-26T12:40:37.704163</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 281.111875 
+L 568.859375 281.111875 
+L 568.859375 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 17.381875 259.465625 
+L 545.791875 259.465625 
+L 545.791875 10.145625 
+L 17.381875 10.145625 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m31591e7803" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m31591e7803" x="17.381875" y="259.465625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- −0.04 -->
+      <g transform="translate(7.2 272.356875) scale(0.08 -0.08)">
+       <defs>
+        <path id="CenturyGothic-2212" d="M 359 2513 
+L 3522 2513 
+L 3522 2084 
+L 359 2084 
+L 359 2513 
+z
+" transform="scale(0.015625)"/>
+        <path id="CenturyGothic-30" d="M 203 2297 
+Q 203 3206 398 3703 
+Q 594 4200 950 4456 
+Q 1306 4713 1747 4713 
+Q 2194 4713 2556 4455 
+Q 2919 4197 3130 3681 
+Q 3341 3166 3341 2297 
+Q 3341 1431 3133 918 
+Q 2925 406 2559 145 
+Q 2194 -116 1747 -116 
+Q 1306 -116 953 137 
+Q 600 391 401 892 
+Q 203 1394 203 2297 
+z
+M 638 2288 
+Q 638 1509 777 1111 
+Q 916 713 1187 506 
+Q 1459 300 1763 300 
+Q 2069 300 2334 501 
+Q 2600 703 2738 1106 
+Q 2909 1597 2909 2288 
+Q 2909 2981 2756 3423 
+Q 2603 3866 2333 4070 
+Q 2063 4275 1763 4275 
+Q 1456 4275 1187 4070 
+Q 919 3866 778 3467 
+Q 638 3069 638 2288 
+z
+" transform="scale(0.015625)"/>
+        <path id="CenturyGothic-2e" d="M 969 688 
+Q 1128 688 1240 575 
+Q 1353 463 1353 300 
+Q 1353 141 1240 26 
+Q 1128 -88 969 -88 
+Q 809 -88 696 26 
+Q 584 141 584 300 
+Q 584 463 696 575 
+Q 809 688 969 688 
+z
+" transform="scale(0.015625)"/>
+        <path id="CenturyGothic-34" d="M 2725 4713 
+L 2819 4713 
+L 2819 1509 
+L 3375 1509 
+L 3375 1069 
+L 2819 1069 
+L 2819 0 
+L 2359 0 
+L 2359 1069 
+L 163 1069 
+L 2725 4713 
+z
+M 2359 1509 
+L 2359 3425 
+L 1006 1509 
+L 2359 1509 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-2212"/>
+       <use xlink:href="#CenturyGothic-30" x="60.595703"/>
+       <use xlink:href="#CenturyGothic-2e" x="116.015625"/>
+       <use xlink:href="#CenturyGothic-30" x="143.701172"/>
+       <use xlink:href="#CenturyGothic-34" x="199.121094"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m31591e7803" x="83.433125" y="259.465625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- −0.03 -->
+      <g transform="translate(73.25125 272.356875) scale(0.08 -0.08)">
+       <defs>
+        <path id="CenturyGothic-33" d="M 847 3531 
+L 378 3531 
+Q 506 4100 868 4406 
+Q 1231 4713 1725 4713 
+Q 2084 4713 2395 4548 
+Q 2706 4384 2876 4106 
+Q 3047 3828 3047 3525 
+Q 3047 2931 2456 2584 
+Q 2788 2450 3000 2191 
+Q 3300 1825 3300 1372 
+Q 3300 981 3094 626 
+Q 2888 272 2531 78 
+Q 2175 -116 1734 -116 
+Q 1141 -116 744 226 
+Q 347 569 225 1231 
+L 675 1231 
+Q 794 784 1016 584 
+Q 1300 331 1741 331 
+Q 2241 331 2544 631 
+Q 2847 931 2847 1334 
+Q 2847 1603 2695 1837 
+Q 2544 2072 2289 2190 
+Q 2034 2309 1500 2338 
+L 1500 2759 
+Q 1816 2759 2075 2870 
+Q 2334 2981 2451 3153 
+Q 2569 3325 2569 3528 
+Q 2569 3828 2330 4047 
+Q 2091 4266 1725 4266 
+Q 1428 4266 1212 4098 
+Q 997 3931 847 3531 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-2212"/>
+       <use xlink:href="#CenturyGothic-30" x="60.595703"/>
+       <use xlink:href="#CenturyGothic-2e" x="116.015625"/>
+       <use xlink:href="#CenturyGothic-30" x="143.701172"/>
+       <use xlink:href="#CenturyGothic-33" x="199.121094"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m31591e7803" x="149.484375" y="259.465625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- −0.02 -->
+      <g transform="translate(139.3025 272.356875) scale(0.08 -0.08)">
+       <defs>
+        <path id="CenturyGothic-32" d="M 741 3156 
+L 300 3156 
+Q 319 3838 755 4275 
+Q 1191 4713 1831 4713 
+Q 2466 4713 2858 4303 
+Q 3250 3894 3250 3338 
+Q 3250 2947 3062 2605 
+Q 2875 2263 2334 1678 
+L 1191 444 
+L 3313 444 
+L 3313 0 
+L 191 0 
+L 1947 1897 
+Q 2481 2469 2642 2745 
+Q 2803 3022 2803 3328 
+Q 2803 3716 2514 3995 
+Q 2225 4275 1806 4275 
+Q 1366 4275 1073 3981 
+Q 781 3688 741 3156 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-2212"/>
+       <use xlink:href="#CenturyGothic-30" x="60.595703"/>
+       <use xlink:href="#CenturyGothic-2e" x="116.015625"/>
+       <use xlink:href="#CenturyGothic-30" x="143.701172"/>
+       <use xlink:href="#CenturyGothic-32" x="199.121094"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m31591e7803" x="215.535625" y="259.465625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- −0.01 -->
+      <g transform="translate(205.35375 272.356875) scale(0.08 -0.08)">
+       <defs>
+        <path id="CenturyGothic-31" d="M 1184 4597 
+L 2088 4597 
+L 2088 0 
+L 1631 0 
+L 1631 4147 
+L 909 4147 
+L 1184 4597 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-2212"/>
+       <use xlink:href="#CenturyGothic-30" x="60.595703"/>
+       <use xlink:href="#CenturyGothic-2e" x="116.015625"/>
+       <use xlink:href="#CenturyGothic-30" x="143.701172"/>
+       <use xlink:href="#CenturyGothic-31" x="199.121094"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m31591e7803" x="281.586875" y="259.465625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 0.00 -->
+      <g transform="translate(273.82875 272.356875) scale(0.08 -0.08)">
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-30" x="138.525391"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m31591e7803" x="347.638125" y="259.465625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 0.01 -->
+      <g transform="translate(339.88 272.356875) scale(0.08 -0.08)">
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-31" x="138.525391"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m31591e7803" x="413.689375" y="259.465625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 0.02 -->
+      <g transform="translate(405.93125 272.356875) scale(0.08 -0.08)">
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-32" x="138.525391"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m31591e7803" x="479.740625" y="259.465625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 0.03 -->
+      <g transform="translate(471.9825 272.356875) scale(0.08 -0.08)">
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-33" x="138.525391"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m31591e7803" x="545.791875" y="259.465625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 0.04 -->
+      <g transform="translate(538.03375 272.356875) scale(0.08 -0.08)">
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-34" x="138.525391"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_10">
+      <defs>
+       <path id="m56e2de7fcc" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m56e2de7fcc" x="545.791875" y="259.465625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 0 -->
+      <g transform="translate(552.791875 262.41125) scale(0.08 -0.08)">
+       <use xlink:href="#CenturyGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m56e2de7fcc" x="545.791875" y="223.848482" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 10 -->
+      <g transform="translate(552.791875 226.794107) scale(0.08 -0.08)">
+       <use xlink:href="#CenturyGothic-31"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m56e2de7fcc" x="545.791875" y="188.231339" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 20 -->
+      <g transform="translate(552.791875 191.176964) scale(0.08 -0.08)">
+       <use xlink:href="#CenturyGothic-32"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m56e2de7fcc" x="545.791875" y="152.614196" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 30 -->
+      <g transform="translate(552.791875 155.559821) scale(0.08 -0.08)">
+       <use xlink:href="#CenturyGothic-33"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m56e2de7fcc" x="545.791875" y="116.997054" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 40 -->
+      <g transform="translate(552.791875 119.942679) scale(0.08 -0.08)">
+       <use xlink:href="#CenturyGothic-34"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m56e2de7fcc" x="545.791875" y="81.379911" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- 50 -->
+      <g transform="translate(552.791875 84.325536) scale(0.08 -0.08)">
+       <defs>
+        <path id="CenturyGothic-35" d="M 3147 4597 
+L 3147 4159 
+L 1509 4159 
+L 1281 2906 
+Q 1581 2994 1822 2994 
+Q 2450 2994 2858 2573 
+Q 3266 2153 3266 1497 
+Q 3266 1044 3056 666 
+Q 2847 288 2489 86 
+Q 2131 -116 1663 -116 
+Q 1103 -116 718 226 
+Q 334 569 259 1113 
+L 731 1113 
+Q 784 847 911 681 
+Q 1038 516 1248 414 
+Q 1459 313 1691 313 
+Q 2144 313 2469 656 
+Q 2794 1000 2794 1516 
+Q 2794 1981 2500 2272 
+Q 2206 2563 1716 2563 
+Q 1309 2563 731 2316 
+L 1156 4597 
+L 3147 4597 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-35"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m56e2de7fcc" x="545.791875" y="45.762768" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 60 -->
+      <g transform="translate(552.791875 48.708393) scale(0.08 -0.08)">
+       <defs>
+        <path id="CenturyGothic-36" d="M 2347 4713 
+L 2725 4466 
+L 1484 2584 
+Q 1734 2669 1953 2669 
+Q 2500 2669 2881 2273 
+Q 3263 1878 3263 1300 
+Q 3263 903 3078 583 
+Q 2894 263 2555 73 
+Q 2216 -116 1825 -116 
+Q 1447 -116 1123 67 
+Q 800 250 615 581 
+Q 431 913 431 1291 
+Q 431 1572 545 1883 
+Q 659 2194 953 2631 
+L 2347 4713 
+z
+M 1844 2266 
+Q 1444 2266 1161 1983 
+Q 878 1700 878 1297 
+Q 878 897 1161 614 
+Q 1444 331 1844 331 
+Q 2244 331 2526 614 
+Q 2809 897 2809 1297 
+Q 2809 1700 2526 1983 
+Q 2244 2266 1844 2266 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-36"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m56e2de7fcc" x="545.791875" y="10.145625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- 70 -->
+      <g transform="translate(552.791875 13.09125) scale(0.08 -0.08)">
+       <defs>
+        <path id="CenturyGothic-37" d="M 459 4597 
+L 3375 4597 
+L 916 -116 
+L 538 78 
+L 2663 4163 
+L 459 4163 
+L 459 4597 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-37"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_18">
+    <path d="M 31.311127 259.428165 
+L 43.11229 259.228092 
+L 50.192987 258.887047 
+L 57.273684 258.268686 
+L 64.354382 257.361859 
+L 76.155544 255.705028 
+L 80.876009 255.269401 
+L 85.596473 255.082872 
+L 90.316938 255.153521 
+L 97.397636 255.593064 
+L 104.478333 256.06622 
+L 109.198798 256.195721 
+L 113.919263 256.089253 
+L 118.639728 255.73292 
+L 123.360192 255.155578 
+L 130.44089 253.977827 
+L 137.521587 252.526539 
+L 144.602284 250.814632 
+L 151.682982 248.793074 
+L 158.763679 246.435797 
+L 165.844376 243.772759 
+L 172.925074 240.865637 
+L 180.005771 237.756393 
+L 187.086468 234.378096 
+L 191.806933 231.844844 
+L 196.527398 228.920882 
+L 198.887631 227.257852 
+L 201.247863 225.431981 
+L 203.608095 223.424429 
+L 205.968328 221.220153 
+L 208.32856 218.808781 
+L 210.688793 216.184873 
+L 213.049025 213.347506 
+L 215.409258 210.299141 
+L 217.76949 207.043893 
+L 220.129723 203.585384 
+L 222.489955 199.924464 
+L 224.850187 196.057128 
+L 227.21042 191.972964 
+L 229.570652 187.65444 
+L 231.930885 183.077261 
+L 234.291117 178.211918 
+L 236.65135 173.026402 
+L 239.011582 167.489929 
+L 241.371814 161.577359 
+L 243.732047 155.2739 
+L 246.092279 148.579618 
+L 250.812744 134.114888 
+L 255.533209 118.594891 
+L 262.613906 95.055155 
+L 264.974139 87.650709 
+L 267.334371 80.696868 
+L 269.694604 74.325564 
+L 272.054836 68.656865 
+L 274.415069 63.794109 
+L 276.775301 59.82001 
+L 279.135534 56.793835 
+L 281.495766 54.74976 
+L 283.855998 53.696378 
+L 286.216231 53.617352 
+L 288.576463 54.473123 
+L 290.936696 56.203551 
+L 293.296928 58.731327 
+L 295.657161 61.965932 
+L 298.017393 65.807877 
+L 300.377625 70.15295 
+L 302.737858 74.896201 
+L 307.458323 85.173984 
+L 316.899253 106.486464 
+L 321.619717 116.501392 
+L 326.340182 125.713518 
+L 331.060647 134.099304 
+L 335.781112 141.856269 
+L 342.861809 153.201061 
+L 347.582274 161.287219 
+L 349.942507 165.642858 
+L 352.302739 170.243592 
+L 357.023204 180.167759 
+L 361.743669 190.819804 
+L 368.824366 206.971169 
+L 371.184599 212.072844 
+L 373.544831 216.908288 
+L 375.905064 221.421094 
+L 378.265296 225.571901 
+L 380.625528 229.339291 
+L 382.985761 232.718924 
+L 385.345993 235.721211 
+L 387.706226 238.367943 
+L 390.066458 240.688423 
+L 392.426691 242.715612 
+L 394.786923 244.482761 
+L 397.147155 246.020825 
+L 399.507388 247.356865 
+L 401.86762 248.513417 
+L 404.227853 249.50871 
+L 406.588085 250.357514 
+L 408.948318 251.072319 
+L 413.668783 252.145932 
+L 418.389247 252.826755 
+L 423.109712 253.229089 
+L 441.991572 254.388003 
+L 449.072269 255.235448 
+L 470.314361 258.193386 
+L 477.395058 258.807316 
+L 484.475756 259.170597 
+L 493.916686 259.385519 
+L 500.997383 259.440471 
+L 500.997383 259.440471 
+" clip-path="url(#p052ebf5391)" style="fill: none; stroke: #555555; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M -1 258.08925 
+L 61.847616 255.81851 
+L 75.203447 254.941567 
+L 88.559278 253.664178 
+L 101.915109 252.04425 
+L 115.270941 250.152663 
+L 128.626772 248.015187 
+L 141.982603 245.637664 
+L 148.660519 244.339902 
+L 155.338434 242.921768 
+L 162.01635 241.300554 
+L 168.694266 239.342153 
+L 175.372181 236.85705 
+L 182.050097 233.605951 
+L 188.728013 229.315782 
+L 195.405928 223.705021 
+L 202.083844 216.516299 
+L 208.76176 207.553775 
+L 215.439675 196.722571 
+L 222.117591 184.066932 
+L 228.795506 169.802488 
+L 235.473422 154.336432 
+L 248.829253 122.366818 
+L 255.507169 107.515303 
+L 262.185085 94.636388 
+L 268.863 84.597169 
+L 275.540916 78.113478 
+L 282.218831 75.667444 
+L 288.896747 77.45218 
+L 295.574663 83.351954 
+L 302.252578 92.959444 
+L 308.930494 105.625444 
+L 315.60841 120.532054 
+L 322.286325 136.778347 
+L 328.964241 153.467325 
+L 335.642157 169.784126 
+L 342.320072 185.057305 
+L 348.997988 198.797613 
+L 355.675903 210.711848 
+L 362.353819 220.692879 
+L 369.031735 228.790289 
+L 375.70965 235.168631 
+L 382.387566 240.061415 
+L 389.065482 243.728497 
+L 395.743397 246.422667 
+L 402.421313 248.368446 
+L 409.099229 249.753066 
+L 415.777144 250.727102 
+L 422.45506 251.410707 
+L 429.132975 251.901249 
+L 469.200469 254.242941 
+L 502.590047 256.823046 
+L 515.945879 257.423428 
+L 529.30171 257.585389 
+L 542.657541 257.391408 
+L 562.691288 257.00846 
+L 569.859375 257.007749 
+L 569.859375 257.007749 
+" clip-path="url(#p052ebf5391)" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #1f77b4; stroke-width: 2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 545.791875 259.465625 
+L 545.791875 10.145625 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 17.381875 259.465625 
+L 545.791875 259.465625 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p052ebf5391">
+   <rect x="17.381875" y="10.145625" width="528.41" height="249.32"/>
+  </clipPath>
+ </defs>
+</svg>

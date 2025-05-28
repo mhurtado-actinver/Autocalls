@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="705.743835pt" height="348.874248pt" viewBox="0 0 705.743835 348.874248" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-05-23T09:37:02.878182</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 348.874248 
+L 705.743835 348.874248 
+L 705.743835 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 56.255 306.766279 
+L 612.023 306.766279 
+L 612.023 8.130207 
+L 56.255 8.130207 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p454b17b4c1)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAwQAAAGfCAYAAADhxRVLAAAO/UlEQVR4nO3ZzY7byBmGUbG7PTaQAZJNgCxyEbmv3HyAAGNMekbMIhPpk6xSV4mkJPs9Z0Wzi8Xij9R+0NPX93newZOan+D1fOQSHn/13z6DaZqaP7uXtU57j9VvcY9aM06N/aPz3GSDm/nI9/9h7/YdDn6G75Ue9RnU752e8deOueezXXKmuvpneWb11tXb27P/WWz9nTz6PXzLObrGDx7wMjg/AADwAxEEAAAQTBAAAEAwQQAAAMEEAQAABBMEAAAQTBAAAEAwQQAAAMEEAQAABBMEAAAQTBAAAEAwQQAAAMEEAQAABBMEAAAQTBAAAEAwQQAAAMEEAQAABBMEAAAQTBAAAEAwQQAAAMEEAQAABBMEAAAQTBAAAEAwQQAAAMEEAQAABBMEAAAQTBAAAEAwQQAAAMEEAQAABBMEAAAQTBAAAEAwQQAAAMEEAQAABBMEAAAQTBAAAEAwQQAAAMEEAQAABBMEAAAQTBAAAEAwQQAAAMHeHr2Ae5nneXB8Y/+d19GeZ3D8gjV0jb4yqPWj1jqG71A9YBpcxOB513p+t5y7XlrfWm9czMrqPZumyw+oNWaL+33v29K6hHor1rrM5jQ9i7i3notesr7eax69+Vvfs63vyz2s9UKffEj268x5Pm/1LF+aH+l8h7e4mtHfQ61jN7PWsx39gt7iC/3O/IUAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCvfUMmuf5sL2fP96/r/v3l8f0Hj937K/z1FO01robHHO65rLdHPPxPOdznexfOO+t522Ob6xhmqau4/tGfXzuLdTreSnX0zpvvZbzy++5r5237KI6f51n9Lyjz3/JmpO0Pg91775x83s+S6OP4ZZn3jrGO3A/Pe/RVt+LrXP0PP7WO7LkPfIOPreed7UafadGx996zCU/8vtWn9vJ/4EesRgAAOA5CAIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYIIAAACCCQIAAAgmCAAAIJggAACAYNOXf/xzPvzrL387bL7+9e+H7Z///PNh+8ufvhy3v3wq22+H7Z9+ej1sf/58ef9ut9t9ej32yOdPx+2f3o7jXl+msv845q0cW+d5e53K/uP269TY/1K3y9pejv8oh+7eyvi6v87zVvZPddBut3s5+VndX9b3cnrMpfXV6zk/x2F/2X5rzFmPrSPqeur26+VpdtPu9Afz7vha7Y+bJ+uuY15O1lHPfXlNc5mzXv75Og7nLfeuHlu15qlr3u8aB+92u5fGuXs0HmHzek7encHznl5nz/jTUftyA1vHv7Teydtv0dU1fbSetc57bR1z68UqTt7zsqbW+7yF1r373zoufyb3jf31iuuxPc9n6+tc0+hzvnaPh85btufG/tPzlvFz+2eL1jR4L7aw1v3tPt/o+Cd/t3vuX8/nefTY0ffl2rE9a2p9fu6p73fscfvaLdr6vfIXAgAACCYIAAAgmCAAAIBgggAAAIIJAgAACCYIAAAgmCAAAIBgggAAAIIJAgAACCYIAAAgmCAAAIBgggAAAIIJAgAACCYIAAAgmCAAAIBgggAAAIIJAgAACCYIAAAgmCAAAIBgggAAAIIJAgAACCYIAAAgmCAAAIBgggAAAIIJAgAACCYIAAAgmCAAAIBgggAAAIIJAgAACCYIAAAgmCAAAIBgggAAAIIJAgAACCYIAAAgmCAAAIBgggAAAIIJAgAACCYIAAAgmCAAAIBgggAAAIIJAgAACDZ9fZ/n///j31/fDz/41y/H7V9+/f2w/etv+8P2++/H7f+U7d/msr2fL27vdrvdvDv+ez+f/uy4v44v243xPeqRU92epvOh34x5mer+xviOMedztbSOf2mstXotuVceT/O8HVM2na+zzvU2HRdSn3m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" id="imagecd4100dbd7" transform="scale(1 -1) translate(0 -298.8)" x="56.255" y="-7.966279" width="555.84" height="298.8"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <!-- 0 -->
+      <g style="fill: #262626" transform="translate(53.206797 324.366748) scale(0.11 -0.11)">
+       <defs>
+        <path id="CenturyGothic-30" d="M 203 2297 
+Q 203 3206 398 3703 
+Q 594 4200 950 4456 
+Q 1306 4713 1747 4713 
+Q 2194 4713 2556 4455 
+Q 2919 4197 3130 3681 
+Q 3341 3166 3341 2297 
+Q 3341 1431 3133 918 
+Q 2925 406 2559 145 
+Q 2194 -116 1747 -116 
+Q 1306 -116 953 137 
+Q 600 391 401 892 
+Q 203 1394 203 2297 
+z
+M 638 2288 
+Q 638 1509 777 1111 
+Q 916 713 1187 506 
+Q 1459 300 1763 300 
+Q 2069 300 2334 501 
+Q 2600 703 2738 1106 
+Q 2909 1597 2909 2288 
+Q 2909 2981 2756 3423 
+Q 2603 3866 2333 4070 
+Q 2063 4275 1763 4275 
+Q 1456 4275 1187 4070 
+Q 919 3866 778 3467 
+Q 638 3069 638 2288 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <!-- 50 -->
+      <g style="fill: #262626" transform="translate(159.994167 324.366748) scale(0.11 -0.11)">
+       <defs>
+        <path id="CenturyGothic-35" d="M 3147 4597 
+L 3147 4159 
+L 1509 4159 
+L 1281 2906 
+Q 1581 2994 1822 2994 
+Q 2450 2994 2858 2573 
+Q 3266 2153 3266 1497 
+Q 3266 1044 3056 666 
+Q 2847 288 2489 86 
+Q 2131 -116 1663 -116 
+Q 1103 -116 718 226 
+Q 334 569 259 1113 
+L 731 1113 
+Q 784 847 911 681 
+Q 1038 516 1248 414 
+Q 1459 313 1691 313 
+Q 2144 313 2469 656 
+Q 2794 1000 2794 1516 
+Q 2794 1981 2500 2272 
+Q 2206 2563 1716 2563 
+Q 1309 2563 731 2316 
+L 1156 4597 
+L 3147 4597 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-35"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <!-- 100 -->
+      <g style="fill: #262626" transform="translate(266.781537 324.366748) scale(0.11 -0.11)">
+       <defs>
+        <path id="CenturyGothic-31" d="M 1184 4597 
+L 2088 4597 
+L 2088 0 
+L 1631 0 
+L 1631 4147 
+L 909 4147 
+L 1184 4597 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-31"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <!-- 150 -->
+      <g style="fill: #262626" transform="translate(376.61711 324.366748) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-31"/>
+       <use xlink:href="#CenturyGothic-35" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <!-- 200 -->
+      <g style="fill: #262626" transform="translate(486.452683 324.366748) scale(0.11 -0.11)">
+       <defs>
+        <path id="CenturyGothic-32" d="M 741 3156 
+L 300 3156 
+Q 319 3838 755 4275 
+Q 1191 4713 1831 4713 
+Q 2466 4713 2858 4303 
+Q 3250 3894 3250 3338 
+Q 3250 2947 3062 2605 
+Q 2875 2263 2334 1678 
+L 1191 444 
+L 3313 444 
+L 3313 0 
+L 191 0 
+L 1947 1897 
+Q 2481 2469 2642 2745 
+Q 2803 3022 2803 3328 
+Q 2803 3716 2514 3995 
+Q 2225 4275 1806 4275 
+Q 1366 4275 1073 3981 
+Q 781 3688 741 3156 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-32"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="text_6">
+      <!-- 250 -->
+      <g style="fill: #262626" transform="translate(596.288256 324.366748) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-32"/>
+       <use xlink:href="#CenturyGothic-35" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_7">
+     <!-- Días -->
+     <g style="fill: #262626" transform="translate(322.04525 339.341748) scale(0.12 -0.12)">
+      <defs>
+       <path id="CenturyGothic-44" d="M 559 0 
+L 559 4597 
+L 1513 4597 
+Q 2544 4597 3009 4431 
+Q 3678 4197 4054 3619 
+Q 4431 3041 4431 2241 
+Q 4431 1550 4132 1025 
+Q 3834 500 3357 250 
+Q 2881 0 2022 0 
+L 559 0 
+z
+M 1000 434 
+L 1531 434 
+Q 2484 434 2853 553 
+Q 3372 722 3669 1161 
+Q 3966 1600 3966 2234 
+Q 3966 2900 3644 3372 
+Q 3322 3844 2747 4019 
+Q 2316 4150 1325 4150 
+L 1000 4150 
+L 1000 434 
+z
+" transform="scale(0.015625)"/>
+       <path id="CenturyGothic-ed" d="M 422 3400 
+L 863 3400 
+L 863 0 
+L 422 0 
+L 422 3400 
+z
+M 853 4994 
+L 1525 4994 
+L 603 4031 
+L 172 4031 
+L 853 4994 
+z
+" transform="scale(0.015625)"/>
+       <path id="CenturyGothic-61" d="M 3875 3400 
+L 3875 0 
+L 3444 0 
+L 3444 584 
+Q 3169 250 2826 81 
+Q 2484 -88 2078 -88 
+Q 1356 -88 845 435 
+Q 334 959 334 1709 
+Q 334 2444 850 2966 
+Q 1366 3488 2091 3488 
+Q 2509 3488 2848 3309 
+Q 3188 3131 3444 2775 
+L 3444 3400 
+L 3875 3400 
+z
+M 2125 3066 
+Q 1759 3066 1450 2886 
+Q 1141 2706 958 2381 
+Q 775 2056 775 1694 
+Q 775 1334 959 1006 
+Q 1144 678 1455 495 
+Q 1766 313 2122 313 
+Q 2481 313 2803 494 
+Q 3125 675 3298 984 
+Q 3472 1294 3472 1681 
+Q 3472 2272 3083 2669 
+Q 2694 3066 2125 3066 
+z
+" transform="scale(0.015625)"/>
+       <path id="CenturyGothic-73" d="M 2197 3028 
+L 1916 2738 
+Q 1566 3078 1231 3078 
+Q 1019 3078 867 2937 
+Q 716 2797 716 2609 
+Q 716 2444 841 2294 
+Q 966 2141 1366 1934 
+Q 1853 1681 2028 1447 
+Q 2200 1209 2200 913 
+Q 2200 494 1906 203 
+Q 1613 -88 1172 -88 
+Q 878 -88 611 40 
+Q 344 169 169 394 
+L 444 706 
+Q 778 328 1153 328 
+Q 1416 328 1600 497 
+Q 1784 666 1784 894 
+Q 1784 1081 1663 1228 
+Q 1541 1372 1113 1591 
+Q 653 1828 488 2059 
+Q 322 2291 322 2588 
+Q 322 2975 586 3231 
+Q 850 3488 1253 3488 
+Q 1722 3488 2197 3028 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#CenturyGothic-44"/>
+      <use xlink:href="#CenturyGothic-ed" x="74.414062"/>
+      <use xlink:href="#CenturyGothic-61" x="94.433594"/>
+      <use xlink:href="#CenturyGothic-73" x="162.744141"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_8">
+      <!-- 3500 -->
+      <g style="fill: #262626" transform="translate(22.369375 303.777585) scale(0.11 -0.11)">
+       <defs>
+        <path id="CenturyGothic-33" d="M 847 3531 
+L 378 3531 
+Q 506 4100 868 4406 
+Q 1231 4713 1725 4713 
+Q 2084 4713 2395 4548 
+Q 2706 4384 2876 4106 
+Q 3047 3828 3047 3525 
+Q 3047 2931 2456 2584 
+Q 2788 2450 3000 2191 
+Q 3300 1825 3300 1372 
+Q 3300 981 3094 626 
+Q 2888 272 2531 78 
+Q 2175 -116 1734 -116 
+Q 1141 -116 744 226 
+Q 347 569 225 1231 
+L 675 1231 
+Q 794 784 1016 584 
+Q 1300 331 1741 331 
+Q 2241 331 2544 631 
+Q 2847 931 2847 1334 
+Q 2847 1603 2695 1837 
+Q 2544 2072 2289 2190 
+Q 2034 2309 1500 2338 
+L 1500 2759 
+Q 1816 2759 2075 2870 
+Q 2334 2981 2451 3153 
+Q 2569 3325 2569 3528 
+Q 2569 3828 2330 4047 
+Q 2091 4266 1725 4266 
+Q 1428 4266 1212 4098 
+Q 997 3931 847 3531 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-33"/>
+       <use xlink:href="#CenturyGothic-35" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+       <use xlink:href="#CenturyGothic-30" x="166.259766"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_9">
+      <!-- 4000 -->
+      <g style="fill: #262626" transform="translate(22.369375 262.566568) scale(0.11 -0.11)">
+       <defs>
+        <path id="CenturyGothic-34" d="M 2725 4713 
+L 2819 4713 
+L 2819 1509 
+L 3375 1509 
+L 3375 1069 
+L 2819 1069 
+L 2819 0 
+L 2359 0 
+L 2359 1069 
+L 163 1069 
+L 2725 4713 
+z
+M 2359 1509 
+L 2359 3425 
+L 1006 1509 
+L 2359 1509 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-34"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+       <use xlink:href="#CenturyGothic-30" x="166.259766"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_10">
+      <!-- 4500 -->
+      <g style="fill: #262626" transform="translate(22.369375 221.355552) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-34"/>
+       <use xlink:href="#CenturyGothic-35" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+       <use xlink:href="#CenturyGothic-30" x="166.259766"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_11">
+      <!-- 5000 -->
+      <g style="fill: #262626" transform="translate(22.369375 180.144535) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-35"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+       <use xlink:href="#CenturyGothic-30" x="166.259766"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_12">
+      <!-- 5500 -->
+      <g style="fill: #262626" transform="translate(22.369375 138.933518) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-35"/>
+       <use xlink:href="#CenturyGothic-35" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+       <use xlink:href="#CenturyGothic-30" x="166.259766"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_13">
+      <!-- 6000 -->
+      <g style="fill: #262626" transform="translate(22.369375 97.722502) scale(0.11 -0.11)">
+       <defs>
+        <path id="CenturyGothic-36" d="M 2347 4713 
+L 2725 4466 
+L 1484 2584 
+Q 1734 2669 1953 2669 
+Q 2500 2669 2881 2273 
+Q 3263 1878 3263 1300 
+Q 3263 903 3078 583 
+Q 2894 263 2555 73 
+Q 2216 -116 1825 -116 
+Q 1447 -116 1123 67 
+Q 800 250 615 581 
+Q 431 913 431 1291 
+Q 431 1572 545 1883 
+Q 659 2194 953 2631 
+L 2347 4713 
+z
+M 1844 2266 
+Q 1444 2266 1161 1983 
+Q 878 1700 878 1297 
+Q 878 897 1161 614 
+Q 1444 331 1844 331 
+Q 2244 331 2526 614 
+Q 2809 897 2809 1297 
+Q 2809 1700 2526 1983 
+Q 2244 2266 1844 2266 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-36"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+       <use xlink:href="#CenturyGothic-30" x="166.259766"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="text_14">
+      <!-- 6500 -->
+      <g style="fill: #262626" transform="translate(22.369375 56.511485) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-36"/>
+       <use xlink:href="#CenturyGothic-35" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+       <use xlink:href="#CenturyGothic-30" x="166.259766"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="text_15">
+      <!-- 7000 -->
+      <g style="fill: #262626" transform="translate(22.369375 15.300469) scale(0.11 -0.11)">
+       <defs>
+        <path id="CenturyGothic-37" d="M 459 4597 
+L 3375 4597 
+L 916 -116 
+L 538 78 
+L 2663 4163 
+L 459 4163 
+L 459 4597 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-37"/>
+       <use xlink:href="#CenturyGothic-30" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="110.839844"/>
+       <use xlink:href="#CenturyGothic-30" x="166.259766"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_16">
+     <!-- Precio -->
+     <g style="fill: #262626" transform="translate(16.036875 175.715431) rotate(-90) scale(0.12 -0.12)">
+      <defs>
+       <path id="CenturyGothic-50" d="M 556 4597 
+L 1472 4597 
+Q 2259 4597 2534 4528 
+Q 2928 4431 3178 4129 
+Q 3428 3828 3428 3372 
+Q 3428 2913 3184 2614 
+Q 2941 2316 2513 2213 
+Q 2200 2138 1344 2138 
+L 1016 2138 
+L 1016 0 
+L 556 0 
+L 556 4597 
+z
+M 1016 4150 
+L 1016 2588 
+L 1794 2578 
+Q 2266 2578 2484 2664 
+Q 2703 2750 2828 2942 
+Q 2953 3134 2953 3372 
+Q 2953 3603 2828 3795 
+Q 2703 3988 2498 4069 
+Q 2294 4150 1828 4150 
+L 1016 4150 
+z
+" transform="scale(0.015625)"/>
+       <path id="CenturyGothic-72" d="M 322 3400 
+L 769 3400 
+L 769 2903 
+Q 969 3197 1191 3342 
+Q 1413 3488 1653 3488 
+Q 1834 3488 2041 3372 
+L 1813 3003 
+Q 1675 3063 1581 3063 
+Q 1363 3063 1159 2883 
+Q 956 2703 850 2325 
+Q 769 2034 769 1150 
+L 769 0 
+L 322 0 
+L 322 3400 
+z
+" transform="scale(0.015625)"/>
+       <path id="CenturyGothic-65" d="M 3350 1128 
+L 3719 934 
+Q 3538 578 3300 359 
+Q 3063 141 2766 26 
+Q 2469 -88 2094 -88 
+Q 1263 -88 794 457 
+Q 325 1003 325 1691 
+Q 325 2338 722 2844 
+Q 1225 3488 2069 3488 
+Q 2938 3488 3456 2828 
+Q 3825 2363 3831 1666 
+L 775 1666 
+Q 788 1072 1153 692 
+Q 1519 313 2056 313 
+Q 2316 313 2561 403 
+Q 2806 494 2978 644 
+Q 3150 794 3350 1128 
+z
+M 3350 2044 
+Q 3263 2394 3095 2603 
+Q 2928 2813 2653 2941 
+Q 2378 3069 2075 3069 
+Q 1575 3069 1216 2747 
+Q 953 2513 819 2044 
+L 3350 2044 
+z
+" transform="scale(0.015625)"/>
+       <path id="CenturyGothic-63" d="M 3788 2694 
+L 3441 2478 
+Q 2991 3075 2213 3075 
+Q 1591 3075 1180 2675 
+Q 769 2275 769 1703 
+Q 769 1331 958 1003 
+Q 1147 675 1476 494 
+Q 1806 313 2216 313 
+Q 2966 313 3441 909 
+L 3788 681 
+Q 3544 316 3133 114 
+Q 2722 -88 2197 -88 
+Q 1391 -88 859 425 
+Q 328 938 328 1672 
+Q 328 2166 576 2589 
+Q 825 3013 1259 3250 
+Q 1694 3488 2231 3488 
+Q 2569 3488 2883 3384 
+Q 3197 3281 3415 3115 
+Q 3634 2950 3788 2694 
+z
+" transform="scale(0.015625)"/>
+       <path id="CenturyGothic-69" d="M 641 4800 
+Q 791 4800 897 4694 
+Q 1003 4588 1003 4438 
+Q 1003 4291 897 4184 
+Q 791 4078 641 4078 
+Q 494 4078 387 4184 
+Q 281 4291 281 4438 
+Q 281 4588 387 4694 
+Q 494 4800 641 4800 
+z
+M 422 3400 
+L 863 3400 
+L 863 0 
+L 422 0 
+L 422 3400 
+z
+" transform="scale(0.015625)"/>
+       <path id="CenturyGothic-6f" d="M 2097 3488 
+Q 2881 3488 3397 2919 
+Q 3866 2400 3866 1691 
+Q 3866 978 3370 445 
+Q 2875 -88 2097 -88 
+Q 1316 -88 820 445 
+Q 325 978 325 1691 
+Q 325 2397 794 2916 
+Q 1309 3488 2097 3488 
+z
+M 2097 3059 
+Q 1553 3059 1162 2656 
+Q 772 2253 772 1681 
+Q 772 1313 950 994 
+Q 1128 675 1431 501 
+Q 1734 328 2097 328 
+Q 2459 328 2762 501 
+Q 3066 675 3244 994 
+Q 3422 1313 3422 1681 
+Q 3422 2253 3030 2656 
+Q 2638 3059 2097 3059 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#CenturyGothic-50"/>
+      <use xlink:href="#CenturyGothic-72" x="59.179688"/>
+      <use xlink:href="#CenturyGothic-65" x="89.257812"/>
+      <use xlink:href="#CenturyGothic-63" x="154.248047"/>
+      <use xlink:href="#CenturyGothic-69" x="218.945312"/>
+      <use xlink:href="#CenturyGothic-6f" x="238.964844"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 612.023 306.766279 
+L 612.023 8.130207 
+" style="fill: none; stroke: #262626; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 56.255 306.766279 
+L 612.023 306.766279 
+" style="fill: none; stroke: #262626; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 625.415 306.766279 
+L 640.346804 306.766279 
+L 640.346804 8.130207 
+L 625.415 8.130207 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_9">
+     <g id="line2d_1">
+      <defs>
+       <path id="m0144f65dc1" d="M 0 0 
+L 6 0 
+" style="stroke: #262626; stroke-width: 1.25"/>
+      </defs>
+      <g>
+       <use xlink:href="#m0144f65dc1" x="640.346804" y="306.766279" style="fill: #262626; stroke: #262626; stroke-width: 1.25"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- 0.0000 -->
+      <g style="fill: #262626" transform="translate(649.846804 310.816513) scale(0.11 -0.11)">
+       <defs>
+        <path id="CenturyGothic-2e" d="M 969 688 
+Q 1128 688 1240 575 
+Q 1353 463 1353 300 
+Q 1353 141 1240 26 
+Q 1128 -88 969 -88 
+Q 809 -88 696 26 
+Q 584 141 584 300 
+Q 584 463 696 575 
+Q 809 688 969 688 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-30" x="138.525391"/>
+       <use xlink:href="#CenturyGothic-30" x="193.945312"/>
+       <use xlink:href="#CenturyGothic-30" x="249.365234"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m0144f65dc1" x="640.346804" y="252.664542" style="fill: #262626; stroke: #262626; stroke-width: 1.25"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 0.0005 -->
+      <g style="fill: #262626" transform="translate(649.846804 256.714776) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-30" x="138.525391"/>
+       <use xlink:href="#CenturyGothic-30" x="193.945312"/>
+       <use xlink:href="#CenturyGothic-35" x="249.365234"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m0144f65dc1" x="640.346804" y="198.562805" style="fill: #262626; stroke: #262626; stroke-width: 1.25"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- 0.0010 -->
+      <g style="fill: #262626" transform="translate(649.846804 202.613039) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-30" x="138.525391"/>
+       <use xlink:href="#CenturyGothic-31" x="193.945312"/>
+       <use xlink:href="#CenturyGothic-30" x="249.365234"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m0144f65dc1" x="640.346804" y="144.461068" style="fill: #262626; stroke: #262626; stroke-width: 1.25"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 0.0015 -->
+      <g style="fill: #262626" transform="translate(649.846804 148.511302) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-30" x="138.525391"/>
+       <use xlink:href="#CenturyGothic-31" x="193.945312"/>
+       <use xlink:href="#CenturyGothic-35" x="249.365234"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m0144f65dc1" x="640.346804" y="90.35933" style="fill: #262626; stroke: #262626; stroke-width: 1.25"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <!-- 0.0020 -->
+      <g style="fill: #262626" transform="translate(649.846804 94.409565) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-30" x="138.525391"/>
+       <use xlink:href="#CenturyGothic-32" x="193.945312"/>
+       <use xlink:href="#CenturyGothic-30" x="249.365234"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m0144f65dc1" x="640.346804" y="36.257593" style="fill: #262626; stroke: #262626; stroke-width: 1.25"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- 0.0025 -->
+      <g style="fill: #262626" transform="translate(649.846804 40.307828) scale(0.11 -0.11)">
+       <use xlink:href="#CenturyGothic-30"/>
+       <use xlink:href="#CenturyGothic-2e" x="55.419922"/>
+       <use xlink:href="#CenturyGothic-30" x="83.105469"/>
+       <use xlink:href="#CenturyGothic-30" x="138.525391"/>
+       <use xlink:href="#CenturyGothic-32" x="193.945312"/>
+       <use xlink:href="#CenturyGothic-35" x="249.365234"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_23">
+     <!-- Densidad -->
+     <g style="fill: #262626" transform="translate(696.211335 185.320118) rotate(-90) scale(0.12 -0.12)">
+      <defs>
+       <path id="CenturyGothic-6e" d="M 488 3400 
+L 925 3400 
+L 925 2791 
+Q 1188 3141 1506 3314 
+Q 1825 3488 2200 3488 
+Q 2581 3488 2876 3294 
+Q 3172 3100 3312 2772 
+Q 3453 2444 3453 1750 
+L 3453 0 
+L 3019 0 
+L 3019 1622 
+Q 3019 2209 2969 2406 
+Q 2891 2744 2675 2914 
+Q 2459 3084 2113 3084 
+Q 1716 3084 1402 2821 
+Q 1088 2559 988 2172 
+Q 925 1919 925 1247 
+L 925 0 
+L 488 0 
+L 488 3400 
+z
+" transform="scale(0.015625)"/>
+       <path id="CenturyGothic-64" d="M 3881 4713 
+L 3881 0 
+L 3450 0 
+L 3450 584 
+Q 3175 250 2833 81 
+Q 2491 -88 2084 -88 
+Q 1363 -88 852 435 
+Q 341 959 341 1709 
+Q 341 2444 856 2966 
+Q 1372 3488 2097 3488 
+Q 2516 3488 2855 3309 
+Q 3194 3131 3450 2775 
+L 3450 4713 
+L 3881 4713 
+z
+M 2131 3066 
+Q 1766 3066 1456 2886 
+Q 1147 2706 964 2381 
+Q 781 2056 781 1694 
+Q 781 1334 965 1006 
+Q 1150 678 1461 495 
+Q 1772 313 2128 313 
+Q 2488 313 2809 494 
+Q 3131 675 3304 984 
+Q 3478 1294 3478 1681 
+Q 3478 2272 3089 2669 
+Q 2700 3066 2131 3066 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#CenturyGothic-44"/>
+      <use xlink:href="#CenturyGothic-65" x="74.414062"/>
+      <use xlink:href="#CenturyGothic-6e" x="139.404297"/>
+      <use xlink:href="#CenturyGothic-73" x="200.390625"/>
+      <use xlink:href="#CenturyGothic-69" x="239.208984"/>
+      <use xlink:href="#CenturyGothic-64" x="259.228516"/>
+      <use xlink:href="#CenturyGothic-61" x="327.734375"/>
+      <use xlink:href="#CenturyGothic-64" x="396.044922"/>
+     </g>
+    </g>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABQAAAGfCAYAAABfifKiAAAB7klEQVR4nO2c0W3DMBBD1cL7r9uPAnGGIAU8guQAh3s4irLkxD9//+97jPp1FjvnnMfb35UOj7fFx1zvCrJXfNvYp+xHdtumcMoB4YBH5hdsDIcLyF7x83DhoKvQNgsHXXzkCz5cOOgFA5Dp4bBjhSy+bSIeltwFA5AXDqIWDoaCCwdZ/CkvHHQ13iwtHGQtHAwFFw6y+FNeOOgqtE1AOHzMvglA7lspz6cOmW+bAGS3bQKQA8LBPZRP3VDmQ1122wQgJzzbuJ8crOUikPumfCMczAX5yH3xZT88BiDzfZiQ2OaCAT7Eh4P9IijgzmEnKVUBdw594RCx9OhDueBDb8HGO1j/hSR+KNuXZQUMJQDZXHBD0XUjD9u2AH6HCUNxF+QjJ4RDXR722SbheGsviEfmb1L+t2Z1yHzbBCA3vpOqWykByH22CQiH/f5QVkA47GFJ1vLQUrANeStF1w3k+VDUfKiLb5sh6+Ij81fKkHXxkfkdbii6LrygMZ9vA5D7psxfKYXI/A4TPlTSeLxt67DQh/wOA5D9H8zBI/d1GIA8H8rid7hNSldjOMyHsvgdFiJvG9V1IxzoyOf1/l3jRof2obQh821TOJRC5AgfDlkUH5m/UhKQ8a8yt0k5CrYhR/iwDZlvmyHr4iPzV8oX27Eb+re221IAAAAASUVORK5CYII=" id="image45f4814cf7" transform="scale(1 -1) translate(0 -298.8)" x="625.68" y="-7.92" width="14.4" height="298.8"/>
+   <g id="LineCollection_1"/>
+   <g id="patch_6">
+    <path d="M 625.415 306.766279 
+L 632.880902 306.766279 
+L 640.346804 306.766279 
+L 640.346804 8.130207 
+L 632.880902 8.130207 
+L 625.415 8.130207 
+L 625.415 306.766279 
+z
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p454b17b4c1">
+   <rect x="56.255" y="8.130207" width="555.768" height="298.636072"/>
+  </clipPath>
+ </defs>
+</svg>
