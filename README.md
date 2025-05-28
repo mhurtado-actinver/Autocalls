@@ -20,6 +20,7 @@
 - Include in the GMM not only the magnitude, but the direction of the volatility
 - Dynamically adjust the number of regimes in calibration
 - Optimise with pomegranate library the calibration of the regimes model
+- Make a data type for the paths to make the code easier to maintain
 
 # Notes
 - The regime model uses a probabilistic regime-switching framework (Markovian), where each path evolves through volatility regimes according to a transition matrix. At every time step, each path has a stochastic chance of transitioning to another regime, independent of price or volatility thresholds. An alternative approach — suggested by Gustavo — is to assign regimes deterministically based on thresholds of observed daily returns or realized volatility. For example, if a path exhibits daily volatility greater than a fixed threshold, it is classified into a high-volatility regime (e.g., regime 3). However, this approach presents a circular inconsistency when regimes are inherently tied to different volatility levels. Specifically:

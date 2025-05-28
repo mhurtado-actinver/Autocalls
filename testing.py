@@ -45,6 +45,7 @@ def split_train_test_calendar_window(df,
     try:
         test_end = test_start.replace(year=test_start.year + 1)
     except ValueError:
+        # Handles leap day edge cases
         test_end = test_start.replace(month=2, day=28, year=test_start.year + 1)
 
     # Calculate training start date
