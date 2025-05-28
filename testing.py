@@ -14,46 +14,59 @@ def split_train_test_calendar_window(df,
                                       date_column='Date'):
     """
     Splits a DataFrame into train and test sets using calendar-aware logic.
-    
+    Handles both regular DataFrames and DatetimeIndex DataFrames.
+
     Parameters:
-        df (pd.DataFrame): The input DataFrame.
-        test_start_date (str or datetime): Start date of the test set.
-        train_years (int): How many full years of training data to use before the test start.
-        date_column (str): Column name containing dates.
+        df (pd.DataFrame): Input DataFrame.
+        test_start_date (str or datetime): Start date of test window.
+        train_years (int): Number of years for the training window.
+        date_column (str): Column containing dates, used only if DataFrame is not indexed by dates.
 
     Returns:
         train_df (pd.DataFrame), test_df (pd.DataFrame)
     """
     df = df.copy()
-    df[date_column] = pd.to_datetime(df[date_column])
-    df = df.sort_values(date_column)
 
+    # Handle input as string or datetime
     test_start = pd.to_datetime(test_start_date)
-    
-    # Calculate test_end as the same calendar date one year later
+
+    # Determine whether to use index or a date column
+    if isinstance(df.index, pd.DatetimeIndex):
+        # Already indexed by dates
+        df = df.sort_index()
+        dates = df.index
+    else:
+        # Use a date column
+        df[date_column] = pd.to_datetime(df[date_column])
+        df = df.sort_values(date_column)
+        dates = df[date_column]
+
+    # Calculate test end date
     try:
         test_end = test_start.replace(year=test_start.year + 1)
     except ValueError:
-        # Handle leap day edge case
         test_end = test_start.replace(month=2, day=28, year=test_start.year + 1)
 
-    # Calculate training start
+    # Calculate training start date
     try:
         train_start = test_start.replace(year=test_start.year - train_years)
     except ValueError:
         train_start = test_start.replace(month=2, day=28, year=test_start.year - train_years)
 
-    # Clip train_start if it’s earlier than our available data
-    min_date = df[date_column].min()
+    # Clip train start to available data
+    min_date = dates.min()
     if train_start < min_date:
         train_start = min_date
 
-    # Filter datasets
-    train_df = df[(df[date_column] >= train_start) & (df[date_column] < test_start)]
-    test_df = df[(df[date_column] >= test_start) & (df[date_column] < test_end)]
+    # Build train and test sets
+    if isinstance(df.index, pd.DatetimeIndex):
+        train_df = df[(df.index >= train_start) & (df.index < test_start)]
+        test_df = df[(df.index >= test_start) & (df.index < test_end)]
+    else:
+        train_df = df[(df[date_column] >= train_start) & (df[date_column] < test_start)]
+        test_df = df[(df[date_column] >= test_start) & (df[date_column] < test_end)]
 
     return train_df, test_df
-
 
 
 
